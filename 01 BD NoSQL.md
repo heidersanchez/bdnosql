@@ -97,5 +97,3 @@ Los estudiantes crearán un pequeño sistema de gestión de usuarios con MongoDB
 - **Guías de instalación y configuración**.
 
 ---
-
-Esta clase proporciona un equilibrio entre teoría y práctica, con un enfoque en casos reales donde las bases de datos NoSQL ofrecen una ventaja significativa sobre las relacionales.
